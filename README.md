@@ -12,4 +12,8 @@
 - vue 单元测试实例
 
 
+## [vue系列](https://github.com/huangshuwei/blog/labels/vue)
+
+- [路由切换回到顶部](https://github.com/huangshuwei/blog/issues/6)
+
 ## babel系列
