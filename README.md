@@ -15,5 +15,6 @@
 ## [vue系列](https://github.com/huangshuwei/blog/labels/vue)
 
 - [路由切换回到顶部](https://github.com/huangshuwei/blog/issues/6)
+- [vue 路由配置 history 模式](https://github.com/huangshuwei/blog/issues/7)
 
 ## babel系列
