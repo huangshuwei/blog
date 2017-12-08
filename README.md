@@ -1,5 +1,5 @@
 # blog
-黄书伟的个人博客
+黄书伟的个人博客，记录下工作的点点滴滴🐾
 
 ## [webpack系列](https://github.com/huangshuwei/blog/labels/webpack)
 
@@ -16,5 +16,10 @@
 
 - [路由切换回到顶部](https://github.com/huangshuwei/blog/issues/6)
 - [vue 路由配置 history 模式](https://github.com/huangshuwei/blog/issues/7)
+
+## nginx 系列
+
+- [windows 下安装使用 nginx](https://github.com/huangshuwei/blog/issues)
+
 
 ## babel系列
