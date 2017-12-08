@@ -17,9 +17,9 @@
 - [路由切换回到顶部](https://github.com/huangshuwei/blog/issues/6)
 - [vue 路由配置 history 模式](https://github.com/huangshuwei/blog/issues/7)
 
-## nginx 系列
+## [nginx 系列](https://github.com/huangshuwei/blog/labels/nginx)
 
-- [windows 下安装使用 nginx](https://github.com/huangshuwei/blog/issues)
+- [windows 下安装使用 nginx](https://github.com/huangshuwei/blog/issues/8)
 
 
 ## babel系列
