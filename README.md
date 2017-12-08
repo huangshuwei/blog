@@ -20,6 +20,8 @@
 ## [nginx 系列](https://github.com/huangshuwei/blog/labels/nginx)
 
 - [windows 下安装使用 nginx](https://github.com/huangshuwei/blog/issues/8)
+- nginx 配置反向代理
+- nginx 配置负载均衡
 
 
 ## babel系列
