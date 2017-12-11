@@ -23,7 +23,7 @@
 
 - [windows 下安装使用 nginx](https://github.com/huangshuwei/blog/issues/8)
 - [nginx 配置反向代理](https://github.com/huangshuwei/blog/issues/9)
-- [nginx 配置负载均衡](https://github.com/huangshuwei/blog/issues/10)
+- [nginx 配置负载均衡](https://github.com/huangshuwei/blog/issues/10)（[转载自这里]（http://www.yiibai.com/nginx/nginx-main-use-scenes.html））
 
 
 ## babel系列
