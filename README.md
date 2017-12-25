@@ -25,5 +25,6 @@
 - [nginx 配置反向代理](https://github.com/huangshuwei/blog/issues/9)
 - [nginx 配置负载均衡](https://github.com/huangshuwei/blog/issues/10)（转载自：http://www.yiibai.com/nginx/nginx-main-use-scenes.html）
 
+## npm 系列
 
-## babel系列
+## babel 系列
