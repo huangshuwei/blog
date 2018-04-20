@@ -28,7 +28,7 @@
 
 ## [前后端分离系列](https://github.com/huangshuwei/blog/labels/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E6%96%B9%E6%A1%88)
 - [后端 token 管理机制](https://github.com/huangshuwei/blog/issues/12)
-- [前端 token 管理机制]()
+- [前端 token 管理机制]
 
 ## npm 系列
 
