@@ -31,7 +31,7 @@
 - [前端 token 管理机制]
 
 ## 包管理器
-
+-[搭建私有的包管理器](https://github.com/huangshuwei/blog/issues/14)
 
 ## npm 系列
 
