@@ -6,6 +6,7 @@
 ## [webpack系列](https://github.com/huangshuwei/blog/labels/webpack)
 
 - [webpack 单页面应用实战](https://github.com/huangshuwei/blog/issues/1)
+- [webpack4.x 同时使用 postcss 和 sass 配置](https://github.com/huangshuwei/blog/issues/17)
 
 
 ## [单元测试系列](https://github.com/huangshuwei/blog/labels/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
