@@ -36,7 +36,7 @@
 - [通过verdaccio搭建私有的包管理器](https://github.com/huangshuwei/blog/issues/15)
 
 ## ASP.NET(C#) 系列
-- [DataTable 分组查询]() 
+- [DataTable 分组查询](https://github.com/huangshuwei/blog/issues/18) 
 
 ## npm 系列
 
