@@ -46,7 +46,7 @@
 
 ## 编辑器
 
-- [webstorm 快捷键]() 
+- [webstorm 快捷键](https://github.com/huangshuwei/blog/issues/21) 
 
 
 
