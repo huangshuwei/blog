@@ -36,6 +36,7 @@
 ## [包管理器](https://github.com/huangshuwei/blog/labels/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8)
 - [通过sinopia搭建私有的包管理器](https://github.com/huangshuwei/blog/issues/14) 
 - [通过verdaccio搭建私有的包管理器](https://github.com/huangshuwei/blog/issues/15)
+- [npm 常用知识点](https://github.com/huangshuwei/blog/issues/22)
 
 ## ASP.NET(C#) 系列
 - [DataTable 分组查询](https://github.com/huangshuwei/blog/issues/18) 
