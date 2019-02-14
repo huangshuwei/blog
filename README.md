@@ -33,7 +33,7 @@
 - [后端 token 管理机制](https://github.com/huangshuwei/blog/issues/12)
 - [前端 token 管理机制]
 
-## 包管理器
+## [包管理器](https://github.com/huangshuwei/blog/labels/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8)
 - [通过sinopia搭建私有的包管理器](https://github.com/huangshuwei/blog/issues/14) 
 - [通过verdaccio搭建私有的包管理器](https://github.com/huangshuwei/blog/issues/15)
 
