@@ -45,6 +45,7 @@
 
 ## 数据库相关
 - [PowerDesigner 使用](https://github.com/huangshuwei/blog/issues/25) 
+- [windows 下 nodejs 操作 oracledb](https://github.com/huangshuwei/blog/issues/26)
 
 ## babel 系列
 
