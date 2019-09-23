@@ -26,6 +26,10 @@
 - [vuex 操作数组](https://github.com/huangshuwei/blog/issues/20)
 - [vue 动态组件传参](https://github.com/huangshuwei/blog/issues/28)
 
+## [react系列](https://github.com/huangshuwei/blog/labels/react)
+
+- [手动配置 react、webpack、babel 创建react 应用](https://github.com/huangshuwei/blog/issues/29) 待完善
+
 ## [nginx 系列](https://github.com/huangshuwei/blog/labels/nginx)
 
 - [windows 下安装使用 nginx](https://github.com/huangshuwei/blog/issues/8)
