@@ -30,6 +30,7 @@
 
 - [手动配置 react、webpack、babel 创建react 应用](https://github.com/huangshuwei/blog/issues/29) 待完善
 - [react 路由配置 history 模式](https://github.com/huangshuwei/blog/issues/30) 待完善
+- [react 路由跳转方式](https://github.com/huangshuwei/blog/issues/31)
 
 ## [nginx 系列](https://github.com/huangshuwei/blog/labels/nginx)
 
