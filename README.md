@@ -22,7 +22,7 @@
 - [路由切换回到顶部](https://github.com/huangshuwei/blog/issues/6)
 - [vue 路由配置 history 模式](https://github.com/huangshuwei/blog/issues/7)
 - [vuex 闲置状态重置](https://github.com/huangshuwei/blog/issues/11)
-- [强制组件重新渲染（重置）](https://github.com/huangshuwei/blog/issues/19)
+- [强制组件重新渲染](https://github.com/huangshuwei/blog/issues/19)
 - [vuex 操作数组](https://github.com/huangshuwei/blog/issues/20)
 - [vue 动态组件传参](https://github.com/huangshuwei/blog/issues/28)
 
