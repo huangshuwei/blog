@@ -30,7 +30,7 @@
 
 - [手动配置 react、webpack、babel 创建react 应用](https://github.com/huangshuwei/blog/issues/29) 待完善
 - [react 路由配置 history 模式-开发模式配置](https://github.com/huangshuwei/blog/issues/30) 
-- [react 路由配置 history 模式-站点服务器配置（iis）](https://github.com/huangshuwei/blog/issues/32)
+- [react 路由配置 history 模式-站点服务器配置（iis为例）](https://github.com/huangshuwei/blog/issues/32)
 - [react 路由跳转方式](https://github.com/huangshuwei/blog/issues/31)
 
 
