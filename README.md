@@ -57,7 +57,7 @@
 - [windows 下 nodejs 操作 oracledb](https://github.com/huangshuwei/blog/issues/26)
 
 ## 桌面应用
-- [electron 打包、发布](https://github.com/huangshuwei/blog/issues/27)
+- [electron 打包、发布](https://github.com/huangshuwei/blog/issues/27) 待完善
 
 ## babel 系列
 
