@@ -1,16 +1,5 @@
-<p align='center'>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=huangshuwei.blog"/>
-    </a>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=huangshuwei.blog"/>
-    </a>
-</p>
-
 # blog
 黄书伟的个人博客，记录下工作的点点滴滴🐾
-
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=huangshuwei.blog.issue.1)
 
 > 有些是转载的，只要是转载的都会标明出处，转载过来的目的也是因为方便这里统一查阅
 
