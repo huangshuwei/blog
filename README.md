@@ -1,9 +1,9 @@
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=huangshuwei.blog"/>
     </a>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jwenjian.ghiblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=huangshuwei.blog"/>
     </a>
 </p>
 
