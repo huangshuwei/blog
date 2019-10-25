@@ -1,11 +1,13 @@
 # blog
 黄书伟的个人博客，记录下工作的点点滴滴🐾
 
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=huangshuwei.blog.issue.1)
+
 > 有些是转载的，只要是转载的都会标明出处，转载过来的目的也是因为方便这里统一查阅
 
 ## [webpack系列](https://github.com/huangshuwei/blog/labels/webpack)
 
-- [webpack 单页面应用实战](https://github.com/huangshuwei/blog/issues/1)
+- [webpack 单页面应用实战](https://github.com/huangshuwei/blog/issues/1) 
 - [webpack4.x 同时使用 postcss 和 sass 配置](https://github.com/huangshuwei/blog/issues/17)
 
 
