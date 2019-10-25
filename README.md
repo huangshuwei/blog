@@ -1,3 +1,12 @@
+<p align='center'>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
+    </a>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jwenjian.ghiblog"/>
+    </a>
+</p>
+
 # blog
 黄书伟的个人博客，记录下工作的点点滴滴🐾
 
