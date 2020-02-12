@@ -58,8 +58,9 @@
 - [PowerDesigner 使用](https://github.com/huangshuwei/blog/issues/25) 
 - [windows 下 nodejs 操作 oracledb](https://github.com/huangshuwei/blog/issues/26)
 
-## 桌面应用
+## 跨平台 electron 桌面应用
 - [electron 打包、发布](https://github.com/huangshuwei/blog/issues/27) 待完善
+- [解决由于网络原因安装 electron 失败的问题](https://github.com/huangshuwei/blog/issues/36)
 
 ## babel 系列
 
