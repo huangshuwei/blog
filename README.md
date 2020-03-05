@@ -67,7 +67,7 @@
 ## 编辑器
 
 - [webstorm 快捷键](https://github.com/huangshuwei/blog/issues/21) 
-- [vs code 配置svn 插件]（https://github.com/huangshuwei/blog/issues/37）
+- [vs code 配置svn 插件](https://github.com/huangshuwei/blog/issues/37)
 
 
 
