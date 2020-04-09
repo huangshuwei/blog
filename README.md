@@ -62,6 +62,7 @@
 - [electron 打包、发布](https://github.com/huangshuwei/blog/issues/27) 待完善
 - [解决由于网络原因安装 electron 失败的问题](https://github.com/huangshuwei/blog/issues/36)
 - [桌面应用 VS 网页应用](https://github.com/huangshuwei/blog/issues/38)
+- [基于 electron-react-boilerplate 之样式](https://github.com/huangshuwei/blog/issues/39)
 
 ## babel 系列
 
