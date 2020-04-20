@@ -63,7 +63,7 @@
 - [解决由于网络原因安装 electron 失败的问题](https://github.com/huangshuwei/blog/issues/36)
 - [桌面应用 VS 网页应用](https://github.com/huangshuwei/blog/issues/38)
 - [基于 electron-react-boilerplate 之样式使用](https://github.com/huangshuwei/blog/issues/39)
-- [基于 electron-react-boilerplate 之样式and.design 主题定制](https://github.com/huangshuwei/blog/issues/41)
+- [基于 electron-react-boilerplate 之 ant.design 主题定制](https://github.com/huangshuwei/blog/issues/41)
 
 ## babel 系列
 
