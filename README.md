@@ -65,7 +65,8 @@
 - [基于 electron-react-boilerplate 之样式使用](https://github.com/huangshuwei/blog/issues/39)
 - [基于 electron-react-boilerplate 之 ant.design 主题定制](https://github.com/huangshuwei/blog/issues/41)
 
-## babel 系列
+## 脚手架 系列
+- [脚手架开发注意事项](https://github.com/huangshuwei/blog/issues/42)
 
 ## 编辑器
 
