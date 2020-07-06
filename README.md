@@ -69,8 +69,6 @@
 - [脚手架开发注意事项](https://github.com/huangshuwei/blog/issues/42)
 
 ## 编辑器
-
-- [webstorm 快捷键](https://github.com/huangshuwei/blog/issues/21) 
 - [vs code 配置](https://github.com/huangshuwei/blog/issues/40)
 
 
