@@ -69,7 +69,7 @@
 - [脚手架开发注意事项](https://github.com/huangshuwei/blog/issues/42)
 
 ## 调试
--[windows10 chrome 调试 iOS Safari 页面](https://github.com/huangshuwei/blog/issues/43)
+- [windows10 chrome 调试 iOS Safari 页面](https://github.com/huangshuwei/blog/issues/43)
 
 ## 编辑器
 - [vs code 配置](https://github.com/huangshuwei/blog/issues/40)
