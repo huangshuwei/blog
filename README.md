@@ -25,6 +25,7 @@
 - [强制组件重新渲染](https://github.com/huangshuwei/blog/issues/19)
 - [vuex 操作数组](https://github.com/huangshuwei/blog/issues/20)
 - [vue 动态组件传参](https://github.com/huangshuwei/blog/issues/28)
+- [Vue jsx 使用技巧](https://github.com/huangshuwei/blog/issues/45)
 
 ## [react系列](https://github.com/huangshuwei/blog/labels/react)
 
