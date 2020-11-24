@@ -30,6 +30,7 @@
 
 ## [vue组件库封装技巧](https://github.com/huangshuwei/blog/labels/vue-library)
 - [externals-外部扩展](https://github.com/huangshuwei/blog/issues/46)
+- [peerDependencies-对等依赖](https://github.com/huangshuwei/blog/issues/47)
 
 ## [react系列](https://github.com/huangshuwei/blog/labels/react)
 
