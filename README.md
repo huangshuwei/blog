@@ -28,7 +28,8 @@
 - [vue 动态组件传参](https://github.com/huangshuwei/blog/issues/28)
 - [vue jsx 使用技巧](https://github.com/huangshuwei/blog/issues/45)
 
-## [vue组件库封装技巧](https://github.com/huangshuwei/blog/labels/vue-library)
+## [vue组件库开发技巧](https://github.com/huangshuwei/blog/labels/vue-library)
+- [公共组件注册](https://github.com/huangshuwei/blog/issues/48)
 - [externals-外部扩展](https://github.com/huangshuwei/blog/issues/46)
 - [peerDependencies-对等依赖](https://github.com/huangshuwei/blog/issues/47)
 - [library]
