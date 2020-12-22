@@ -14,7 +14,7 @@
 
 **vue 单元测试**
 - [karma+mocha+webpack3 搭建 vue2 单元测试环境](https://github.com/huangshuwei/blog/issues/2)
-- [使用 vue-test-utils 进行单元测试01](https://github.com/huangshuwei/blog/issues/23)
+- [vue-test-utils + jest 单元测试配置](https://github.com/huangshuwei/blog/issues/23)
 - vue 单元测试实例
 
 
