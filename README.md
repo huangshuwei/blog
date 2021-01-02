@@ -17,6 +17,7 @@
 - [vue-test-utils + jest 单元测试-通用配置](https://github.com/huangshuwei/blog/issues/23)
 - [vue-test-utils + jest 单元测试-moduleNameMapper 模块映射](https://github.com/huangshuwei/blog/issues/50) 缺示例
 - [vue-test-utils + jest 单元测试-vs code jest 插件](https://github.com/huangshuwei/blog/issues/51)
+- [vue-test-utils + jest 单元测试-测试键盘、鼠标等DOM 事件]
 
 
 ## [vue系列](https://github.com/huangshuwei/blog/labels/vue)
