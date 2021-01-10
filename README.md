@@ -29,6 +29,7 @@
 - [vuex 操作数组](https://github.com/huangshuwei/blog/issues/20)
 - [vue 动态组件传参](https://github.com/huangshuwei/blog/issues/28)
 - [vue jsx 使用技巧](https://github.com/huangshuwei/blog/issues/45)
+- [vue-cli 3 打包支持 IE11](https://github.com/huangshuwei/blog/issues/52)
 
 ## [vue组件库开发技巧](https://github.com/huangshuwei/blog/labels/vue-library)
 - [组件库特点](https://github.com/huangshuwei/blog/issues/49)
