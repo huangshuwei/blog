@@ -70,7 +70,7 @@
 
 ## grpc-web
 
-- [Generate Protobuf Messages On Windows](https://github.com/huangshuwei/blog/issues/53)
+- [windows环境生成Protobuf消息和客户端服务存根](https://github.com/huangshuwei/blog/issues/53)
 
 ## 数据库相关
 - [PowerDesigner 使用](https://github.com/huangshuwei/blog/issues/25) 
