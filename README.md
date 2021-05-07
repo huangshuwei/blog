@@ -71,6 +71,7 @@
 ## grpc-web
 
 - [windows环境生成Protobuf消息和客户端服务存根](https://github.com/huangshuwei/blog/issues/53)
+- [windows10 基于grpc-web 的 envoy 代理配置](https://github.com/huangshuwei/blog/issues/54)
 
 ## 数据库相关
 - [PowerDesigner 使用](https://github.com/huangshuwei/blog/issues/25) 
@@ -81,7 +82,7 @@
 - [解决由于网络原因安装 electron 失败的问题](https://github.com/huangshuwei/blog/issues/36)
 - [桌面应用 VS 网页应用](https://github.com/huangshuwei/blog/issues/38)
 - [基于 electron-react-boilerplate 之样式使用](https://github.com/huangshuwei/blog/issues/39)
-- [基于 electron-react-boilerplate 之 ant.design 主题定制](https://github.com/huangshuwei/blog/issues/41)
+- [基于 electron-react-boilerplate 之 ant.design 主题定制](https://github.com/huangshuwei/blog/issues/41) 未完
 
 ## 脚手架 系列
 - [脚手架开发注意事项](https://github.com/huangshuwei/blog/issues/42)
