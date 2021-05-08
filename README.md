@@ -71,7 +71,8 @@
 ## grpc-web
 
 - [windows环境生成Protobuf消息和客户端服务存根](https://github.com/huangshuwei/blog/issues/53)
-- [windows10 基于grpc-web 的 envoy 代理配置](https://github.com/huangshuwei/blog/issues/54) 未完
+- [.proto 协议缓冲文件介绍](https://github.com/huangshuwei/blog/issues/55)
+- [windows10 基于grpc-web 的 envoy 代理配置](https://github.com/huangshuwei/blog/issues/54)
 
 ## 数据库相关
 - [PowerDesigner 使用](https://github.com/huangshuwei/blog/issues/25) 
