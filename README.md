@@ -70,6 +70,7 @@
 - [npm 常用知识点](https://github.com/huangshuwei/blog/issues/22)
 - [npm 发布名称作用域的包](https://github.com/huangshuwei/blog/issues/57)
 - [yarn 常用知识点](https://github.com/huangshuwei/blog/issues/33)
+- [yarn link 发布之前调试神器](https://github.com/huangshuwei/blog/issues/59)
 
 ## ASP.NET(C#) 系列
 - [DataTable 分组查询](https://github.com/huangshuwei/blog/issues/18) 
