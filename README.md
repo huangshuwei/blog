@@ -72,6 +72,9 @@
 - [yarn 常用知识点](https://github.com/huangshuwei/blog/issues/33)
 - [yarn link 发布之前调试神器](https://github.com/huangshuwei/blog/issues/59)
 
+## node 系列
+- [node 版本管理之 nvm ](https://github.com/huangshuwei/blog/issues/60)
+
 ## ASP.NET(C#) 系列
 - [DataTable 分组查询](https://github.com/huangshuwei/blog/issues/18) 
 
