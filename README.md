@@ -7,6 +7,10 @@
 
 - [webpack 单页面应用实战](https://github.com/huangshuwei/blog/issues/1) 
 - [webpack4.x 同时使用 postcss 和 sass 配置](https://github.com/huangshuwei/blog/issues/17)
+
+
+## [网站性能优化](https://github.com/huangshuwei/blog/labels/%E7%BD%91%E7%AB%99%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+
 - [静态资源gzip压缩处理](https://github.com/huangshuwei/blog/issues/61)
 
 ## [主题切换系列](https://github.com/huangshuwei/blog/labels/theme)
