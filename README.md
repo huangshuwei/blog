@@ -42,6 +42,11 @@
 - [vue jsx 使用技巧](https://github.com/huangshuwei/blog/issues/45)
 - [vue-cli 3 打包支持 IE](https://github.com/huangshuwei/blog/issues/52)
 
+## [vue3系列](https://github.com/huangshuwei/blog/labels/vue3)
+
+- [vue3 组件 props 透传](https://github.com/huangshuwei/blog/issues/62)
+
+
 ## [vue组件库开发技巧](https://github.com/huangshuwei/blog/labels/vue-library)
 - [组件库特点](https://github.com/huangshuwei/blog/issues/49)
 - [公共组件注册](https://github.com/huangshuwei/blog/issues/48)
