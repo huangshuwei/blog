@@ -21,7 +21,7 @@
 
 ## [单元测试系列](https://github.com/huangshuwei/blog/labels/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
-**vue 单元测试**
+**vue2 单元测试**
 - [karma+mocha+webpack3 搭建 vue2 单元测试环境](https://github.com/huangshuwei/blog/issues/2)
 - [vue-test-utils + jest 单元测试-通用配置](https://github.com/huangshuwei/blog/issues/23)
 - [vue-test-utils + jest 单元测试-moduleNameMapper 模块映射](https://github.com/huangshuwei/blog/issues/50) 缺示例
@@ -31,7 +31,7 @@
 - [Travis CI 结合 Codecov 测试覆盖率]
 
 
-## [vue系列](https://github.com/huangshuwei/blog/labels/vue)
+## [vue2系列](https://github.com/huangshuwei/blog/labels/vue)
 
 - [路由切换回到顶部](https://github.com/huangshuwei/blog/issues/6)
 - [vue 路由配置 history 模式](https://github.com/huangshuwei/blog/issues/7)
